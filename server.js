@@ -26,8 +26,8 @@ app.get('/', function (req, res) {
 });
 
 // START server
-server.listen(3054, function () {
-  console.log('server listening on http://localhost:3054!')
+server.listen(3000, function () {
+  console.log('server listening on http://localhost:3000!')
 });
 
 
